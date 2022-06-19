@@ -19,3 +19,11 @@
 0.0.0.0 rtb.adgrx.com
 0.0.0.0 scs.samsungqbe.com
 0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com
+0.0.0.0 d.adroll.com
+0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 sync.adotmob.com
+
+
+
